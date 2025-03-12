@@ -1,8 +1,8 @@
-# DevLinks
+# DevLinks 🚀
 
 DevLinks é um agregador de links pessoal, criado para ser usado como um cartão de visitas online. O projeto foi desenvolvido com as tecnologias **HTML**, **CSS**, **JavaScript** e **Figma**. Ele permite compartilhar rapidamente seus principais links de forma elegante.
 
-## Tecnologias
+## Tecnologias 💻
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -12,7 +12,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Git e GitHub**
 - **Figma**
 
-## Funcionalidades
+## Funcionalidades 📌
 
 O DevLinks tem como principal funcionalidade ser um **cartão de visitas online**. Você pode incluir links importantes como:
 
@@ -23,7 +23,7 @@ O DevLinks tem como principal funcionalidade ser um **cartão de visitas online*
 
 Além disso, o projeto conta com um **modo escuro** que pode ser ativado clicando no botão "Alternar Tema".
 
-## Como Usar
+## Como Usar 📌
 
 1. **Clone o repositório**:
     ```bash
@@ -39,7 +39,7 @@ Além disso, o projeto conta com um **modo escuro** que pode ser ativado clicand
 
 4. **Personalize os links** no arquivo `index.html` com seus próprios links.
 
-## Links
+## Links 📎
 
 Aqui estão os links que foram inseridos no projeto como exemplo:
 
@@ -48,7 +48,7 @@ Aqui estão os links que foram inseridos no projeto como exemplo:
 - [Portfólio](https://drive.google.com/file/d/1bbVp4yKVfYG9fFJH-qnO9iGMGuOOikA_/view?usp=drivesdk)
 - [Instagram](https://www.instagram.com/mandd.z?igsh=bWJzNW90cGtnNHNj)
 
-## Licença
+## Licença 📃
 
 Este projeto está sob a **Licença MIT**.
 
